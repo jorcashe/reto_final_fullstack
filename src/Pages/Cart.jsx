@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from "react-router-dom";
 import { useCartStore } from "../store/useCartStore";
 
+
 const Cart = () => {
   const { cart, removeFromCart, getTotal } = useCartStore();
 
