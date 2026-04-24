@@ -11,7 +11,7 @@ const Navbar = () => {
     <nav className="bg-blue-600 text-white p-4 shadow-lg sticky top-0 z-50">
       <div className="container mx-auto flex justify-between items-center">
         <Link to="/" className="text-2xl font-bold tracking-tighter">
-          GEORGE-STORE 🚀
+          GEORGE-STORE-THE-BEST 🚀
         </Link>
         <Link to="/cart" className="flex items-center gap-2 bg-blue-700 px-4 py-2 rounded-lg hover:bg-blue-800 transition">
           <span>🛒 Carrito</span>
